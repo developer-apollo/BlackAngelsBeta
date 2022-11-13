@@ -1,3 +1,6 @@
+PRIVACY POLICY
+The data is in no way shared with 3rd party institutions/organizations or software (User, Server). Our data is available for immediate use. Channel and Role data can be edited and deleted by Server Owners.
+
 DİKKAT !
 ÇALAN KİŞİ VPN KULLANSA DAHİ İP AĞ ALT MASKESİNDEN VE MAC ADRESİNE KADAR ULAŞILIR.
 ORTADA ŞİKAYET OLDUĞU ZAMAN SİZİ KURTARACAK BİR VPN YOKTUR. POLİSE YAPILAN BİR İHBAR İLE İNTERNET FATURANIZDAN
